@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import Combine
 
 //Se utiliza el MainActor para actualizar la UI y el ObservableObject para que SwiftUI observe sus cambios y actualice la vista
 @MainActor
