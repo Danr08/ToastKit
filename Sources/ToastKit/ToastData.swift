@@ -7,7 +7,7 @@
 
 import Foundation
 
-public struct ToastData {
+public struct ToastData: Equatable {
     public let id = UUID()
     public let message: String
     public let duration: TimeInterval
