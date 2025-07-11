@@ -64,28 +64,25 @@ struct ContentView: View {
 
 ---
 
-##Ejemplo de vista
+## Ejemplo de vista
 
-###Exito
-```markdown
-![Image](https://github.com/user-attachments/assets/8890f4cf-e7b7-440d-9ff0-d91691964a37)
-```
+### Exito
 
-###Error
-```markdown
-![Image](https://github.com/user-attachments/assets/72603031-aba1-49c6-9da2-cf120d4c9485)
-```
+<img width="1206" height="372" alt="Image" src="https://github.com/user-attachments/assets/e11350b2-bdd3-4c69-9dc4-015f18806728" />
 
-###Advertencia
-```markdown
-![Image](https://github.com/user-attachments/assets/6ebeec1d-2e21-4593-823a-830bb377abfb)
-```
+### Advertencia
 
-###Información
-```markdown
-![Image](https://github.com/user-attachments/assets/dbab7469-917d-449c-9848-7127e69fdb3f)
-```
+<img width="1206" height="372" alt="Image" src="https://github.com/user-attachments/assets/312d7507-a2ed-411a-b9b2-8edc6a2347e6" />
+
+### Error
+
+<img width="1206" height="368" alt="Image" src="https://github.com/user-attachments/assets/c40e6876-9e81-44c9-9059-f260674ab72e" />
+
+### Información
+
+<img width="1206" height="366" alt="Image" src="https://github.com/user-attachments/assets/cf49f73a-759a-4e33-a6a2-6376ea3f1200" />
+
 ---
 
-##Autor
-##Danr08
+## Autor
+Danr08
